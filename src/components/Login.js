@@ -1,8 +1,7 @@
 import React from 'react'
-// import Button from '@mui/material/Button';
-import { Container, Button, TextField, 
+import {  Button, TextField, 
     Typography, Grid, Paper, Avatar} from '@material-ui/core' ;
-import { Checkbox, FormControlLabel, Card, CardMedia } from '@mui/material';
+import { Checkbox, FormControlLabel } from '@mui/material';
 import GoogleIcon from '@mui/icons-material/Google';
 import ArticleIcon from '@mui/icons-material/Article';
 import svg from '../assets/login.svg'
